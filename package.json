@@ -38,7 +38,7 @@
     "ava": "^5.3.1",
     "cpy-cli": "^5.0.0",
     "cross-env": "^7.0.3",
-    "cspell": "^7.0.1-alpha.8",
+    "cspell": "^8.16.1",
     "cspell-dict-file-checker": "workspace:*",
     "cspell-tools": "^5.1.1",
     "eslint": "^8.44.0",
